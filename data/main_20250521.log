@@ -1,0 +1,17 @@
+2025-05-21 23:40:43,609 - main - INFO - Starting scraping for category: industrial_machinery
+2025-05-21 23:40:43,610 - industrial_machinery_scraper - INFO - Starting IndiaMartScraper for category: industrial_machinery
+2025-05-21 23:40:43,610 - industrial_machinery_scraper - INFO - Scraping page 1: https://trade.indiamart.com/offer/plant-machinery/?page=1
+2025-05-21 23:40:45,827 - industrial_machinery_scraper - INFO - Scraping page 2: https://trade.indiamart.com/offer/plant-machinery/?page=2
+2025-05-21 23:40:47,969 - industrial_machinery_scraper - INFO - Scraping page 3: https://trade.indiamart.com/offer/plant-machinery/?page=3
+2025-05-21 23:40:50,130 - industrial_machinery_scraper - INFO - Scraping page 4: https://trade.indiamart.com/offer/plant-machinery/?page=4
+2025-05-21 23:40:52,287 - industrial_machinery_scraper - INFO - Scraping page 5: https://trade.indiamart.com/offer/plant-machinery/?page=5
+2025-05-21 23:40:54,494 - industrial_machinery_scraper - INFO - Backup saved to data/indiamart_industrial_machinery_20250521_234054.csv
+2025-05-21 23:40:54,496 - industrial_machinery_scraper - INFO - Data saved to data/indiamart_industrial_machinery.csv
+2025-05-21 23:40:54,496 - industrial_machinery_scraper - INFO - Successfully scraped 75 products
+2025-05-21 23:40:54,496 - main - INFO - Starting data analysis
+2025-05-21 23:40:54,498 - marketplace_analyzer - INFO - Loaded 75 records from indiamart_industrial_machinery.csv
+2025-05-21 23:40:54,509 - marketplace_analyzer - INFO - Data cleaning completed
+2025-05-21 23:40:54,516 - marketplace_analyzer - INFO - Generated comprehensive summary statistics
+2025-05-21 23:40:54,620 - marketplace_analyzer - INFO - Saved analysis results to analysis_industrial_machinery_analysis.json
+2025-05-21 23:40:57,577 - marketplace_analyzer - INFO - Completed full analysis
+2025-05-21 23:40:57,578 - main - INFO - Process completed successfully

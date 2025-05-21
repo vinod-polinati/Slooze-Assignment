@@ -1,0 +1,210 @@
+{
+  "summary_statistics": {
+    "overview": {
+      "total_products": 75,
+      "unique_locations": 12,
+      "unique_cities": 12,
+      "unique_states": 1,
+      "total_suppliers": 0
+    },
+    "price_analysis": {
+      "statistics": {
+        "count": 0.0,
+        "mean": NaN,
+        "std": NaN,
+        "min": NaN,
+        "25%": NaN,
+        "50%": NaN,
+        "75%": NaN,
+        "max": NaN
+      },
+      "by_category": {
+        "Machine": {
+          "mean": NaN,
+          "median": NaN,
+          "count": 0
+        },
+        "Other": {
+          "mean": NaN,
+          "median": NaN,
+          "count": 0
+        }
+      }
+    },
+    "geographical_insights": {
+      "top_cities": {
+        "1 hr ago": 20,
+        "3 mins ago": 5,
+        "5 mins ago": 5,
+        "7 mins ago": 5,
+        "11 mins ago": 5,
+        "22 mins ago": 5,
+        "45 mins ago": 5,
+        "59 mins ago": 5,
+        "2 hrs ago": 5,
+        "3 hrs ago": 5
+      },
+      "top_states": {
+        "Unknown": 75
+      },
+      "products_per_location": {
+        "Unknown_1 hr ago": 20,
+        "Unknown_11 mins ago": 5,
+        "Unknown_2 hrs ago": 5,
+        "Unknown_22 hrs ago": 5,
+        "Unknown_22 mins ago": 5,
+        "Unknown_3 hrs ago": 5,
+        "Unknown_3 mins ago": 5,
+        "Unknown_4 hrs ago": 5,
+        "Unknown_45 mins ago": 5,
+        "Unknown_5 mins ago": 5,
+        "Unknown_59 mins ago": 5,
+        "Unknown_7 mins ago": 5
+      }
+    },
+    "supplier_analysis": {
+      "member_duration_stats": {
+        "count": 0.0,
+        "mean": NaN,
+        "std": NaN,
+        "min": NaN,
+        "25%": NaN,
+        "50%": NaN,
+        "75%": NaN,
+        "max": NaN
+      },
+      "products_per_supplier": {}
+    },
+    "product_insights": {
+      "category_distribution": {
+        "Other": 65,
+        "Machine": 10
+      },
+      "top_products": {
+        "Hydraulic Hose Pipe Crimping Machine": 5,
+        "Printer Head": 5,
+        "LG Ma88 Refrigerator Compressor": 5,
+        "Stainless Steel Tube Expander": 5,
+        "Aluminium Tilting Rotary Furnaces": 5,
+        "Paper Roll Pallet Truck": 5,
+        "Table Press Electric Steam Boiler Full Set Semi Automatic": 5,
+        "Sany Sr155 Piling Rig": 5,
+        "Hydrotron - Softens Hard Water": 5,
+        "Heat Transfer Composite Wall": 5
+      }
+    }
+  },
+  "text_analysis": {
+    "top_terms": {
+      "000": 0.1274245836357222,
+      "probable": 0.1204280584772712,
+      "type": 0.10202284067849074,
+      "requirement": 0.0926732587039324,
+      "stainless": 0.0889278896742516,
+      "steel": 0.0889278896742516,
+      "quantity": 0.08877073139279765,
+      "piece": 0.08877073139279765,
+      "business": 0.08366029055595073,
+      "use": 0.08366029055595073,
+      "material": 0.08285461175413664,
+      "value": 0.06973912172679933,
+      "order": 0.06973912172679933,
+      "rs": 0.06973912172679933,
+      "automatic": 0.0636505978381481,
+      "day": 0.05772279202570341,
+      "ton": 0.05772279202570341,
+      "kg": 0.05726924555056314,
+      "machine": 0.05438676800704607,
+      "capacity": 0.04865846078114521
+    },
+    "clusters": {
+      "cluster_0": [
+        [
+          [
+            "type",
+            "head",
+            "piece",
+            "quantity",
+            "lg",
+            "order",
+            "rs",
+            "value",
+            "probable",
+            "000"
+          ]
+        ]
+      ],
+      "cluster_1": [
+        [
+          [
+            "kg",
+            "surface",
+            "500",
+            "200",
+            "maximum",
+            "boiler",
+            "hr",
+            "mm",
+            "grinding",
+            "piling"
+          ]
+        ]
+      ],
+      "cluster_2": [
+        [
+          [
+            "quantity",
+            "type",
+            "requirement",
+            "softens",
+            "sample",
+            "percolator",
+            "conical",
+            "material",
+            "steel",
+            "stainless"
+          ]
+        ]
+      ],
+      "cluster_3": [
+        [
+          [
+            "requirements",
+            "additional",
+            "production",
+            "capacity",
+            "grade",
+            "oil",
+            "machine",
+            "automatic",
+            "ton",
+            "day"
+          ]
+        ]
+      ],
+      "cluster_4": [
+        [
+          [
+            "probable",
+            "quantity",
+            "piece",
+            "material",
+            "power",
+            "melting",
+            "rotary",
+            "source",
+            "tilting",
+            "aluminium"
+          ]
+        ]
+      ]
+    },
+    "cluster_sizes": {
+      "0": 25,
+      "3": 15,
+      "2": 15,
+      "1": 15,
+      "4": 5
+    }
+  }
+}
